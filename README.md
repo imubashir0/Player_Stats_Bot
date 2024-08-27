@@ -36,7 +36,7 @@ Navigate to http://localhost:3000/auth in your web browser to initiate the OAuth
 
 **Add your Discord Bot Token**:
 
-Open the .env file and complete the variable with your actual Discord Bot Token provided by Discord.
+Open the .env file and complete the variable with your actual Discord Bot Token provided by Discord at https://discord.com/developers/applications.
 
 **Run the Discord Bot**:
 
