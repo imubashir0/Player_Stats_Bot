@@ -79,5 +79,6 @@ Discord.js - For providing a powerful library to interact with the Discord API.
 
 PSN API - For enabling integration with PlayStation Network.
 
+Vector by Kahovsky - For bot icon
 
 This README now includes detailed instructions on how to run the bot, covering both the OAuth server and the Discord bot components. Feel free to modify it further based on your needs!
