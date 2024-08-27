@@ -34,6 +34,10 @@ The OAuth server will start and listen on http://localhost:3000. This server wil
 
 Navigate to http://localhost:3000/auth in your web browser to initiate the OAuth authentication process. Follow the on-screen instructions to authorize the bot.
 
+**Add your Discord Bot Token**:
+
+Open the .env file and complete the variable with your actual Discord Bot Token provided by Discord.
+
 **Run the Discord Bot**:
 
 Open another terminal window or tab and run the following command to start the Discord bot in bash:
