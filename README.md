@@ -48,6 +48,8 @@ The bot will connect to your Discord server using the token specified in your .e
 
 **Using the Bot**:
 
+Add the bot to your Discord Server
+
 Once the bot is online, you can use the command !gamestats <PSN_ID> in your Discord server to fetch game stats for a specific PlayStation Network ID.
 
 The bot will respond with the requested stats, including details on game trophies and achievements.
