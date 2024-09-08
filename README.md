@@ -1,6 +1,6 @@
-# Player Stat Bot
+# StatBot
 
-The **Player Stat Bot** is a Discord bot designed to provide PlayStation game stats and trophies information directly in your Discord server. The bot uses the PlayStation Network (PSN) API to fetch player data and display it in an easy-to-read format. This application also includes an OAuth server to handle the authentication process with Sony's API.
+The **StatBot** is a Discord bot designed to provide PlayStation game stats and trophies information directly in your Discord server. The bot uses the PlayStation Network (PSN) API to fetch player data and display it in an easy-to-read format. This application also includes an OAuth server to handle the authentication process with Sony's API.
 
 ## Table of Contents
 
